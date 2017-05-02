@@ -3,6 +3,7 @@
 .classpath
 .springBeans
 /.settings
+.idea
 
 # Generated Directories and Files
 /target
